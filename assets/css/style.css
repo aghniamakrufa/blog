@@ -447,6 +447,10 @@ header .btn-group {
 .blog-text,
 .profile-wrapper { display: none; }
 
+.blog-text {
+  font-size: 20px;
+}
+
 .blog .wrapper {
   display:         flex;
   justify-content: space-between;
